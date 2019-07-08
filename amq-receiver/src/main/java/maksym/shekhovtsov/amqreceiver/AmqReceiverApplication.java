@@ -9,5 +9,4 @@ public class AmqReceiverApplication {
     public static void main(String[] args) {
         SpringApplication.run(AmqReceiverApplication.class, args);
     }
-
 }
